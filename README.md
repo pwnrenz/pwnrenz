@@ -1,5 +1,5 @@
 - Hi, I’m @pwnrenz
-- I’m interested in ...cyber security
+- Work as a Sysadmin, interested in cybersecurity and cloud computing.
 
 <!---
 pwnrenz/pwnrenz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
